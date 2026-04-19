@@ -57,7 +57,7 @@ It provides functionality to perform and visualize **sorting and searching algor
 
 ---
 
-## 📁 Project Structure  
+ 📁 Project Structure  
 
 
 Algo-visualization-master/
@@ -124,22 +124,20 @@ DsAprojectApplication.java
 http://localhost:8080/
 🖥️ Usage Guide
 🔢 Sorting
-Enter array values
+Enter array size
 Select sorting algorithm
 View sorted result
 🔍 Searching
-Enter array and target value
+Enter array size and target value
 Select searching algorithm
 View search result
 🚀 Future Enhancements
 📊 Graphical animations (bar visualization)
-🌐 Add graph algorithms (BFS, DFS, Dijkstra)
-📱 Mobile responsive UI
-☁️ Cloud deployment
-🎥 Step-by-step visualization
-👨‍💻 Author
 
-Developed by Sachin Awbay
+🎥 Step-by-step visualization
+
+👨‍💻 Author
+Developed by Sachin 
 
 📝 License
 
