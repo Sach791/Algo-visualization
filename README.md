@@ -60,45 +60,46 @@ It provides functionality to perform and visualize **sorting and searching algor
 
 ## 📁 Project Structure  
 
-
+```
 Algo-visualization-master/
 │
 ├── .mvn/
 ├── src/
-│ ├── main/
-│ │ ├── java/com/DSAproject/DSAproject/
-│ │ │ ├── algorithm/
-│ │ │ │ ├── searching/
-│ │ │ │ └── sorting/
-│ │ │ │
-│ │ │ ├── controllers/
-│ │ │ │ ├── SearchingController.java
-│ │ │ │ └── SortingController.java
-│ │ │ │
-│ │ │ ├── services/
-│ │ │ │ ├── SearchingService.java
-│ │ │ │ └── SortingService.java
-│ │ │ │
-│ │ │ ├── DTO/
-│ │ │ └── DsAprojectApplication.java
-│ │ │
-│ │ └── resources/
-│ │ ├── templates/
-│ │ │ ├── sorting.html
-│ │ │ ├── searching.html
-│ │ │ ├── result.html
-│ │ │ └── search-result.html
-│ │ │
-│ │ └── application.properties
-│ │
-│ └── test/
-│ └── java/com/DSAproject/DSAproject/
-│ └── DsAprojectApplicationTests.java
+│   ├── main/
+│   │   ├── java/com/DSAproject/DSAproject/
+│   │   │   ├── algorithm/
+│   │   │   │   ├── searching/
+│   │   │   │   └── sorting/
+│   │   │   │
+│   │   │   ├── controllers/
+│   │   │   │   ├── SearchingController.java
+│   │   │   │   └── SortingController.java
+│   │   │   │
+│   │   │   ├── services/
+│   │   │   │   ├── SearchingService.java
+│   │   │   │   └── SortingService.java
+│   │   │   │
+│   │   │   ├── DTO/
+│   │   │   └── DsAprojectApplication.java
+│   │   │
+│   │   └── resources/
+│   │       ├── templates/
+│   │       │   ├── sorting.html
+│   │       │   ├── searching.html
+│   │       │   ├── result.html
+│   │       │   └── search-result.html
+│   │       │
+│   │       └── application.properties
+│   │
+│   └── test/
+│       └── java/com/DSAproject/DSAproject/
+│           └── DsAprojectApplicationTests.java
 │
 ├── mvnw
 ├── mvnw.cmd
 ├── pom.xml
 └── README.md
+```
 
 
 
