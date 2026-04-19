@@ -57,7 +57,8 @@ It provides functionality to perform and visualize **sorting and searching algor
 
 ---
 
- 📁 Project Structure  
+
+## 📁 Project Structure  
 
 
 Algo-visualization-master/
@@ -69,12 +70,15 @@ Algo-visualization-master/
 │ │ │ ├── algorithm/
 │ │ │ │ ├── searching/
 │ │ │ │ └── sorting/
+│ │ │ │
 │ │ │ ├── controllers/
 │ │ │ │ ├── SearchingController.java
 │ │ │ │ └── SortingController.java
+│ │ │ │
 │ │ │ ├── services/
 │ │ │ │ ├── SearchingService.java
 │ │ │ │ └── SortingService.java
+│ │ │ │
 │ │ │ ├── DTO/
 │ │ │ └── DsAprojectApplication.java
 │ │ │
@@ -84,6 +88,7 @@ Algo-visualization-master/
 │ │ │ ├── searching.html
 │ │ │ ├── result.html
 │ │ │ └── search-result.html
+│ │ │
 │ │ └── application.properties
 │ │
 │ └── test/
@@ -94,6 +99,8 @@ Algo-visualization-master/
 ├── mvnw.cmd
 ├── pom.xml
 └── README.md
+
+
 
 
 ---
@@ -140,5 +147,4 @@ View search result
 Developed by Sachin 
 
 📝 License
-
 This project is open-source and available for educational purposes.
